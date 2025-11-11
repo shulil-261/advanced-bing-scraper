@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://www.bing.com/search?q=best+restaurants+in+NYC",
+    "keyword": "best restaurants in NYC",
+    "pageNumber": 1,
+    "organicResults": [
+      {
+        "title": "10 Best Restaurants in NYC - Updated 2023",
+        "url": "https://www.tripadvisor.com/Restaurants-g60763-New_York_City_New_York.html",
+        "description": "Discover the top restaurants in NYC, from fine dining to casual spots..."
+      }
+    ],
+    "relatedQueries": [
+      {
+        "text": "best pizza restaurants in nyc",
+        "url": "https://www.bing.com/search?q=best+pizza+restaurants+in+nyc"
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "What are the best fine dining restaurants in NYC?",
+        "answer": "Some of the best fine dining options in NYC include Eleven Madison Park and Le Bernardin."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://www.bing.com/images/search?q=best+restaurants+in+NYC&id=123456",
+        "description": "Top-rated restaurants in NYC with stunning views."
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.bing.com/videos/search?q=best+restaurants+in+NYC&docid=1234",
+        "title": "Top 10 Restaurants in NYC",
+        "views": "100K",
+        "channel": "NYC Eats",
+        "provider": "YouTube"
+      }
+    ],
+    "news": [],
+    "wikiResults": null
+  }
+]
